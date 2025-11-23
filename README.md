@@ -4,7 +4,7 @@ I am a Computer Engineering M.Sc. student specializing in **Artificial Intellige
 
 I am passionate about **Reinforcement Learning** and **Generative Modeling**. My academic journey has been international, allowing me to study across different engineering cultures in Italy, Poland, and Korea.
 
-🔭 **Current Research**
+🔭 **Current Project**
 - **Generative Experience Replay:** Developing a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
 
 💻 **Previous Projects**

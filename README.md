@@ -4,22 +4,20 @@ I am a Computer Engineering M.Sc. student specializing in **Artificial Intellige
 
 I am passionate about **Reinforcement Learning** and **Generative Modeling**. My academic journey has been international, allowing me to study across different engineering cultures in Italy, Poland, and Korea.
 
-🔭 **Current Project**
-- **Generative Experience Replay:** Developing a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
-
 💻 **Previous Projects**
 - **AI Tutor Platform (Bachelor Thesis):** Designed a web application utilizing **OpenAI's LLMs** to create interactive virtual avatars that guide high school students in collaborative study sessions.
+- **Generative Experience Replay:** Developing a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
 
 🌱 **Global Education Journey**
 - 🇰🇷 **KAIST** (Exchange Semester) - *AI & Robotics*
 - 🇮🇹 **Politecnico di Torino** - *M.Sc. Computer Engineering (AI Track)*
-- 🇵🇱 **Warsaw University of Technology** (Erasmus Scholar) - *Python & Cultural Adaptation*
+- 🇵🇱 **Warsaw University of Technology** (Erasmus) - *Python & Cultural Adaptation*
 - 🇮🇹 **University of Catania** - *B.Sc. Computer Engineering*
 
 🛠 **Technical Arsenal**
 - **AI & ML:** PyTorch, numpy, Scikit-learn, TensorFlow
-- **Programming:** Python, C, Java 
-- **Web & Data:** Laravel, PHP, JavaScript, SQL 
+- **Programming:** Python, C, Java, Rust
+- **Web & Data:** Laravel, PHP, JavaScript, SQL, Kotlin
 - **Soft Skills:** Problem-solving, Adaptability to multicultural environments
 
 ---

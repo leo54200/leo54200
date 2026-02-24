@@ -1,26 +1,28 @@
-### Hi there, I'm Leonardo! 👋
+## Hi there, I'm Leonardo! 👋
 
-I am a Computer Engineering M.Sc. student specializing in **Artificial Intelligence & Data Analytics** at **Politecnico di Torino**, currently expanding my research horizons as an Exchange Student at **KAIST** (South Korea).
+I am an M.Sc. Computer Engineering student specializing in **Artificial Intelligence & Data Analytics** at the **Polytechnic of Turin**.
 
-I am passionate about **Reinforcement Learning** and **Generative Modeling**. My academic journey has been international, allowing me to study across different engineering cultures in Italy, Poland, and Korea.
+My passion lies at the intersection of **Deep Learning, Reinforcement Learning, and Generative AI**. I am driven by the challenge of taking theoretical AI models and applying them to solve complex, real-world problems.
 
-💻 **Previous Projects**
-- **AI Tutor Platform (Bachelor Thesis):** Designed a web application utilizing **OpenAI's LLMs** to create interactive virtual avatars that guide high school students in collaborative study sessions.
-- **Generative Experience Replay:** Developing a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
+## 💻 Previous Projects
+- **[AI Tutor Platform (Bachelor Thesis)](https://github.com/leo54200/AI-Powered-Study-Group-Website):** Designed a web application utilizing **OpenAI's LLMs** to create interactive virtual avatars that guide high school students in collaborative study sessions.
+- **[Generative Experience Replay for RL](https://github.com/alicebanaudi/Experience-Replay-for-Action-Generalization-and-Multi-Agent-System):** Studied a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
+- **[Photomosaic Generation with SDXL](https://github.com/m4rk-git/Visual-Generation-Contest):** A generative photomosaic creator powered by Stable Diffusion XL and color quantization, assembling large images from semantic micro-tiles.
+- **[Bare-Metal Pac-Man for ARM Cortex-M3](https://github.com/leo54200/Pac-Man-Game-for-ARM-on-LandTiger-1768):** Programmed a hardware-integrated game in C and ARM Assembly, demonstrating the low-level system architecture and memory management skills essential for Edge AI computing.
 
-🌱 **Global Education Journey**
+## 🌱 Global Education Journey
 - 🇰🇷 **KAIST** (Exchange Semester) - *AI & Robotics*
-- 🇮🇹 **Politecnico di Torino** - *M.Sc. Computer Engineering (AI Track)*
-- 🇵🇱 **Warsaw University of Technology** (Erasmus) - *Python & Cultural Adaptation*
+- 🇮🇹 **Polytechnic of Turin** - *M.Sc. Computer Engineering (AI Track)*
+- 🇵🇱 **Warsaw University of Technology** (Erasmus) - *Computer Science & International Exchange*
 - 🇮🇹 **University of Catania** - *B.Sc. Computer Engineering*
 
-🛠 **Technical Arsenal**
-- **AI & ML:** PyTorch, numpy, Scikit-learn, TensorFlow
-- **Programming:** Python, C, Java, Rust
-- **Web & Data:** Laravel, PHP, JavaScript, SQL, Kotlin
-- **Soft Skills:** Problem-solving, Adaptability to multicultural environments
+## 🛠 Technical Arsenal
+* **🧠 Deep Learning & GenAI:** PyTorch, TensorFlow, Hugging Face (Transformers, Diffusers)
+* **📊 Data Science & Analysis:** NumPy, Pandas, Scikit-learn, Matplotlib
+* **💻 Core Languages:** Python, C, Rust, Java, SQL
+* **⚙️ Infrastructure & Full-Stack:** Docker, Git/GitHub, JavaScript, Kotlin, PHP/Laravel
 
 ---
-### 📫 Let's Connect
+## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Cavallaro-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cavallaro-314848228/)
 [![Email](https://img.shields.io/badge/Email-leo.cavallaro.02-c14438?style=flat&logo=gmail&logoColor=white)](mailto:leo.cavallaro.02@gmail.com)

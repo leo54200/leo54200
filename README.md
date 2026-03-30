@@ -1,4 +1,6 @@
 ## Hi there, I'm Leonardo! 👋
+> **[🌐 Explore my Interactive Portfolio →](https://leo54200.github.io)**
+> *Architecting the future of Data-Driven Systems through Generative AI and Reinforcement Learning.*
 
 I am an M.Sc. Computer Engineering student specializing in **Artificial Intelligence & Data Analytics** at the **Polytechnic of Turin**.
 

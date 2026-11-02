@@ -12,7 +12,6 @@ My passion lies at the intersection of Deep Learning, Reinforcement Learning, an
   - *Focus:* Mechanistic interpretability, activation extraction, and safety refusal mechanisms in LLMs.
 
 ## 💻 Featured Projects
-- **[LLM Polarity & Refusal Circuits](https://github.com/leo54200)** *(Ongoing @ ELLIS)*: Probing layer-wise activation divergence across Gemma 3 models to analyze internal safety representations and polarity blindness.
 - **[AI Tutor Platform (Bachelor Thesis)](https://github.com/leo54200/AI-Powered-Study-Group-Website):** Designed a web application utilizing OpenAI's LLMs to create interactive virtual avatars that guide high school students in collaborative study sessions.
 - **[Generative Experience Replay for RL](https://github.com/alicebanaudi/Experience-Replay-for-Action-Generalization-and-Multi-Agent-System):** Studied a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
 - **[Photomosaic Generation with SDXL](https://github.com/m4rk-git/Visual-Generation-Contest):** A generative photomosaic creator powered by Stable Diffusion XL and color quantization, assembling large images from semantic micro-tiles.

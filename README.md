@@ -1,12 +1,18 @@
 ## Hi there, I'm Leonardo! 👋
+> 🔬 **AI Research Intern @ ELLIS Alicante** | M.Sc. Computer Engineering @ **PoliTO**
 > **[🌐 Explore my Interactive Portfolio →](https://leo54200.github.io)**
-> *Architecting the future of Data-Driven Systems through Generative AI and Reinforcement Learning.*
+*Understanding the Inner Workings of LLMs to Build Safer and More Trustworthy AI.*
 
-I am an M.Sc. Computer Engineering student specializing in **Artificial Intelligence & Data Analytics** at the **Polytechnic of Turin**.
+M.Sc. Computer Engineering Student @ PoliTO | AI Research Intern @ ELLIS Alicante | Focusing on AI Interpretability
 
-My passion lies at the intersection of **Deep Learning, Reinforcement Learning, and Generative AI**. I am driven by the challenge of taking theoretical AI models and applying them to solve complex, real-world problems.
+My passion lies at the intersection of Deep Learning, Reinforcement Learning, and Generative AI, with a core focus on AI Interpretability. I am driven by the challenge of making theoretical models not only powerful, but also transparent and trustworthy enough to deploy with confidence.
 
-## 💻 Previous Projects
+## 🏛️ Current Role & Research
+- 🔬 **Research Intern** @ **[ELLIS Alicante Unit](https://ellisalicante.org/)** 
+  - *Focus:* Mechanistic interpretability, activation extraction, and safety refusal mechanisms in LLMs.
+
+## 💻 Featured Projects
+- **[LLM Polarity & Refusal Circuits](https://github.com/leo54200)** *(Ongoing @ ELLIS)*: Probing layer-wise activation divergence across Gemma 3 models to analyze internal safety representations and polarity blindness.
 - **[AI Tutor Platform (Bachelor Thesis)](https://github.com/leo54200/AI-Powered-Study-Group-Website):** Designed a web application utilizing OpenAI's LLMs to create interactive virtual avatars that guide high school students in collaborative study sessions.
 - **[Generative Experience Replay for RL](https://github.com/alicebanaudi/Experience-Replay-for-Action-Generalization-and-Multi-Agent-System):** Studied a diffusion-based replay buffer to improve sample efficiency in Multi-Agent RL (SUMO & Overcooked environments).
 - **[Photomosaic Generation with SDXL](https://github.com/m4rk-git/Visual-Generation-Contest):** A generative photomosaic creator powered by Stable Diffusion XL and color quantization, assembling large images from semantic micro-tiles.
@@ -20,10 +26,10 @@ My passion lies at the intersection of **Deep Learning, Reinforcement Learning, 
 - 🇮🇹 **University of Catania** - *B.Sc. Computer Engineering*
 
 ## 🛠 Technical Arsenal
-* **🧠 Deep Learning & GenAI:** PyTorch, TensorFlow, Hugging Face (Transformers, Diffusers)
-* **📊 Data Science & Analysis:** NumPy, Pandas, Scikit-learn, Matplotlib
-* **💻 Core Languages:** Python, C, Rust, Java, SQL
-* **⚙️ Infrastructure & Full-Stack:** Docker, Git/GitHub, JavaScript, Kotlin, PHP/Laravel
+- **🧠 DL & Interpretability:** PyTorch, Hugging Face (Transformers, Diffusers), TensorFlow, Mechanistic Interpretability, Activation Extraction
+- **📊 Data Science & Analysis:** NumPy, Pandas, Scikit-learn, Matplotlib
+- **💻 Core Languages:** Python, C, Rust, Java, SQL
+- **⚙️ Infrastructure & Full-Stack:** Docker, Git/GitHub, JavaScript, Kotlin, PHP/Laravel
 
 ---
 ## 📫 Let's Connect
